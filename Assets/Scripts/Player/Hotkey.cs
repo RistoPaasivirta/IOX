@@ -1,0 +1,21 @@
+﻿public enum Hotkey : int
+{
+    Attack1 = 0,
+    Attack2 = 1,
+    Up = 2,
+    Down = 3,
+    Left = 4,
+    Right = 5,
+    Use = 6,
+    Map = 7,
+    Weapon1 = 8,
+    Weapon2 = 9,
+    Weapon3 = 10,
+    Weapon4 = 11,
+    Weapon5 = 12,
+    Skill1 = 13,
+    Skill2 = 14,
+    Skill3 = 15,
+    Skill4 = 16,
+    Skill5 = 17,
+}
